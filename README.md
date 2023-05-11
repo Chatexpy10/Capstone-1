@@ -1,2 +1,2 @@
-# web-dev-project
-These are some of the projects have done ...
+# Captone project 1
+These project was done with html only
